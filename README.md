@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 , I’m Charles Effah
 
-<!--
-**yaweffah03/yaweffah03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science graduate student based in Paris. I build machine learning models and data-driven solutions with a focus on real-world applications.
 
-Here are some ideas to get you started:
+Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cybersecurity Attack Detection using Machine Learning
+AG News NLP Classification using DistilBERT and RoBERTa
+
+Skills
+- Python
+- SQL
+- Machine Learning
+- NLP
+- TensorFlow
+- Scikit-learn
+
+Focus
+
+Machine learning, data analysis, and real-world problem solving
