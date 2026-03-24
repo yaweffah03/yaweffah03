@@ -1,6 +1,6 @@
 ## Hi there 👋 , I’m Charles Effah
 
-I am a Data Science graduate student based in Paris. I build machine learning models and data-driven solutions with a focus on real-world applications.
+Data Analyst and Data Science graduate student based in Paris. I build machine learning models and data-driven solutions with a focus on real-world applications. I have experience building end-to-end machine learning pipelines, including deployment and model evaluation.
 
 Projects
 
