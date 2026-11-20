@@ -1,20 +1,17 @@
-## Hi there 👋 , I’m Charles Effah
+# Hi, I'm Charles Effah
 
-Data Analyst and Data Science graduate student based in Paris. I build machine learning models and data-driven solutions with a focus on real-world applications. I have experience building end-to-end machine learning pipelines, including deployment and model evaluation.
+Data science graduate (MSc Data Science & AI, DSTI Paris) with six years leading operations teams in fintech lending. I build data and machine learning projects around real decisions, currently focused on health data.
 
-Projects
+## Projects
 
-Cybersecurity Attack Detection using Machine Learning
-AG News NLP Classification using DistilBERT and RoBERTa
+**[clinical-trial-matcher](https://github.com/yaweffah03/clinical-trial-matcher)**: matches a patient description to recruiting type 2 diabetes trials from ClinicalTrials.gov using sentence embeddings and ChromaDB, then checks eligibility criteria with an LLM. Includes evaluation on TREC clinical-trial data. [Live demo](https://clinical-trial-matcher-demo.streamlit.app)
 
-Skills
-- Python
-- SQL
-- Machine Learning
-- NLP
-- TensorFlow
-- Scikit-learn
+`Python` `sentence-transformers` `ChromaDB` `Gemini` `Streamlit`
 
-Focus
+## Skills
 
-Machine learning, data analysis, and real-world problem solving
+Python (pandas, scikit-learn) · SQL · NLP · machine learning
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/charles-effah) · charles.effah@edu.dsti.institute
