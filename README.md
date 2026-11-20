@@ -1,6 +1,8 @@
 # Hi, I'm Charles Effah
 
-Data science graduate (MSc Data Science & AI, DSTI Paris) with six years leading operations teams in fintech lending. I build data and machine learning projects around real decisions, currently focused on health data.
+Data science graduate (MSc Data Science & AI, DSTI Paris) with six years leading operations teams in fintech lending. I build data and machine learning projects around real decisions, with two focuses: health data, and AI ethics and governance.
+
+I care about responsible AI from the moment a model is built to the way it is used, and especially about the gap between consent as a ticked box and genuine consent when personal data feeds automated systems.
 
 ## Projects
 
